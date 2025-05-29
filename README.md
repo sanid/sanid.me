@@ -1,2 +1,0 @@
-# sanid.me
-Website
